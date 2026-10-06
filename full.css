@@ -19,10 +19,12 @@ body
 {
     padding: 10px;
     background-color: #CCCCCC;
+    background: linear-gradient(45deg, white 0%,#CCCCCC 100%);
 }
 
 #footer
 {
     padding: 10px;
     background-color: #CCCCCC;
+    background: linear-gradient(to bottom, #CCCCCC 0%,white 100%);
 }
