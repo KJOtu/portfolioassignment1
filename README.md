@@ -7,6 +7,7 @@ Krutarth Joshi portfolio website made with HTML5 and CSS3
 - index.html - home page
 - about.html - about me page
 - projects.html - projects page
+- contact.html - contact me page
 - full.css - style sheet for laptops and desktops
 - tablet.css - style sheet for tablets
 - smartphone.css - style sheet for smartphones

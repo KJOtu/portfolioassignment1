@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Krutarth Joshi - About Me</title>
+    <title>Krutarth Joshi - Contact Me</title>
     <meta name="viewport" content="width=device-width">
     <!--style sheet is for fullsize monitor-->
     <link href="full.css" rel="stylesheet" type="text/css"
@@ -17,7 +17,7 @@
 <body>
     <div id="wrapper">
         <header id="banner">
-            <h1>About Me</h1>
+            <h1>Contact Me</h1>
         </header>
         <nav>
             <h2>Links</h2>
@@ -28,13 +28,32 @@
                 <li><a href="contact.html">Contact Me</a></li>
             </ul>
         </nav>
-        <h2>Hello</h2>
-        <figure>
-            <img src="KJphoto.jpg" alt="Photo of Krutarth Joshi" width="200">
-            <figcaption>Krutarth Joshi</figcaption>
-        </figure>
-        <p>Introduction</p>
-        <p>Program: Tech Management - BIT</p>
+        <h2>Contact Form</h2>
+        <form action="mailto:krutarth.joshi1@ontariotechu.net"
+        method="post" enctype="text/plain" name="form">
+            <p>
+                <label for="name">Name :</label>
+                <input type="text" id="name" name="name" size="30"
+                placeholder="Enter your name" required>
+            </p>
+            <p>
+                <label for="email">Email :</label>
+                <input type="email" id="email" name="email" size="30"
+                placeholder="Enter your email address" required>
+            </p>
+            <p>
+                <label for="cell">Cell No. :</label>
+                <input type="tel" id="cell" name="cell" size="30"
+                placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+            </p>
+            <p>
+                <label for="comments">Comments :</label>
+                <br>
+                <textarea id="comments" name="comments" cols="30" rows="6" required></textarea>
+            </p>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </form>
         <footer id="footer">
             <address>
                 <p>Contact me at <a href="mailto:krutarth.joshi1@ontariotechu.net">krutarth.joshi1@ontariotechu.net</a></p>
