@@ -12,3 +12,5 @@ Krutarth Joshi portfolio website made with HTML5 and CSS3
 - tablet.css - style sheet for tablets
 - smartphone.css - style sheet for smartphones
 - KJphotonew.jpg - photo for the about me page
+- portfoliovideo.mp4 - video for the about me page
+- poster.jpg - poster image for the video
