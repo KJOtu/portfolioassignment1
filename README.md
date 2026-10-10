@@ -14,6 +14,7 @@ Krutarth Joshi portfolio website made with HTML5 and CSS3
 - KJphotonew.jpg - photo for the about me page
 - portfoliovideo.mp4 - video for the about me page
 - poster.jpg - poster image for the video
+- colourscheme.jpeg - colour scheme made with Adobe Color
 
 ## Screen Sizes
 
@@ -31,3 +32,15 @@ The page width is set as a percentage (90% on laptops, 95% on tablets and smartp
 - The footer uses a linear gradient from top to bottom, going from light grey (#CCCCCC) to white
 
 Both gradients are used on every page and are in all three style sheets.
+
+## Colour Scheme
+
+- White (#FFFFFF) is used for the page background and the gradients
+- Black (#000000) is used for the text
+- Light grey (#CCCCCC) is used for the header, the footer and the gradients
+
+The font is Arial, with sans serif as the backup.
+
+The colour scheme was made with Adobe Color:
+
+![](colourscheme.jpeg)
