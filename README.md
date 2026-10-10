@@ -44,3 +44,7 @@ The font is Arial, with sans serif as the backup.
 The colour scheme was made with Adobe Color:
 
 ![](colourscheme.jpeg)
+
+## Code Sources
+
+- The pattern used for the cell number on the contact page, which makes the number follow the format 123-456-7890, is from MDN Web Docs, written by Mozilla and individual contributors: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/tel
